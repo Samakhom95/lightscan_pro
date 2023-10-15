@@ -19,4 +19,7 @@ Lightscan Pro is more than just an app; it's a digital toolbox that enhances you
 
 Download Lightscan Pro now and discover a new level of simplicity in scanning, generating QR codes, and optimizing media files.
 
+# Our Website
+https://rateraters.github.io/lightscan.html
 # Terms and Conditions
+https://rateraters.github.io/terms1.html

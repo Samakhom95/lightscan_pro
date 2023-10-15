@@ -18,3 +18,5 @@ Upload, share, and enjoy videos without the hassle of large file sizes. Lightsca
 Lightscan Pro is more than just an app; it's a digital toolbox that enhances your productivity and simplifies your daily tasks. With its lightning-fast performance, and versatile features, Lightscan Pro is the must-have app for anyone seeking efficiency, convenience, and seamless digital interactions.
 
 Download Lightscan Pro now and discover a new level of simplicity in scanning, generating QR codes, and optimizing media files.
+
+# Terms and Conditions
